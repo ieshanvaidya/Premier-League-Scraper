@@ -7,9 +7,9 @@ JSON Dump Files contain detailed information about available matches. For some m
 ### Match Data
 Match Data in following format :
 
-| Season   | GW | MID | Date                | HID | Home    | AID | Away         | HT Home | HT Away | FT Home | FT Away | Referee   | Stadium  | City   | Attendance |
-|----------|----|-----|---------------------|-----|---------|-----|--------------|---------|---------|---------|---------|-----------|----------|--------|------------|
-| 11992-93 | 1  | 1   | 1992-08-15 15:00:00 | 1   | Arsenal | 14  | Norwich City | 2       | 0       | 2       | 4       | Alan Gunn | Highbury | London | 24030      |
+| Season  | GW | MID | Date                | HID | Home    | AID | Away         | HT Home | HT Away | FT Home | FT Away | Referee   | Stadium  | City   | Attendance |
+|---------|----|-----|---------------------|-----|---------|-----|--------------|---------|---------|---------|---------|-----------|----------|--------|------------|
+| 1992-93 | 1  | 1   | 1992-08-15 15:00:00 | 1   | Arsenal | 14  | Norwich City | 2       | 0       | 2       | 4       | Alan Gunn | Highbury | London | 24030      |
 
 ##### Keywords 
 1. GW - Gameweek
